@@ -161,7 +161,4 @@ cython_debug/
 
 # Personal file to ignore
 data/
-teaching_material/
 */.ipynb_checkpoints/*
-.DS_Store
-Maria's Code/
